@@ -22,6 +22,7 @@ const defaultImagesList = [
   'openchemistry/nwchem:6.6',
   'openchemistry/psi4:1.2.1',
   'openchemistry/torchani:1.2',
+  'openchemistry/qiskit:1.0'
 ];
 
 const defaultImages = defaultImagesList.join('\n');
